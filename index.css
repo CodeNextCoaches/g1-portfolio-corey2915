@@ -1,24 +1,5 @@
 
-.hi{
-  left:1000px;
-  text:50px;
-}
-
-.pictures{
-  right :150px;
-  bottom:10px;
-}
-@media screen and (max-width: 2000px) {
-  body{
-  background-color: black ;
-  }
-
-}
-
-@media screen and (min-height: 500px) {
-  body{
-background-color: blue ;
-
-  }
+body{
+background-color: #FAD7A8
 
 }
